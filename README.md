@@ -2,7 +2,7 @@
 
 | Title                         | Type   | Duration | Author               |
 |-------------------------------|--------|----------|-----------------------
-| Python Exception Handling     | Lab    | 1:30     | Suresh Melvin Sigera |
+| Python Exception Handling     | Lab    | 2:00     | Suresh Melvin Sigera |
 
 You are getting ready to write an interactive Python calculator in this lab.
 
